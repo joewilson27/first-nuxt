@@ -1,0 +1,1 @@
+src = https://www.turing.com/kb/guide-to-installing-and-creating-nuxt-app
